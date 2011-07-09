@@ -6,7 +6,7 @@ if ( ! defined( 'MEDIAWIKI' ) )
 //---------- Note Author--- 08-2010-------------------
 // The JBZV Transcription Editor is designed to add an 
 // iframe next to the edit form so that it can be 
-// transcribed using the edit box.
+// transcribed  using the edit box.
 //----------------------------------------------------
  
 $wgExtensionCredits['other'][] = array(
