@@ -1,0 +1,21 @@
+#summary Installing
+
+= Introduction =
+
+First install Mediawiki.
+
+The TB Transcription Desl comprises two Mediawiki extensions: JBTEIToolbar (supporting TEI markup) and JBZV (the Zoom Viewer support).
+
+Download each directory(JBTEIToolbar and JBZV).
+
+To the end of your MediaWiki LocalSettings.php file, add
+
+
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
