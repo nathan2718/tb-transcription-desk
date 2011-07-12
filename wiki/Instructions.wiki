@@ -26,18 +26,18 @@ A copy of the Transcribe Bentham theme is included. It is based on the Modern th
 
 (Some of these are more optional than others.)
 
-* ProgressBar
-* VideoFlash
-* AWC Forum (optional)
-* Notitle
-* RSSReader
-* DiscussionThreading
-* ReCaptcha
-* SemanticMediaWiki (optional)
-* SocialProfile
-* GroupPermissionsManager
-* UserMerge
-* MassEditRegex
+  * ProgressBar
+  * VideoFlash
+  * AWC Forum (optional)
+  * Notitle
+  * RSSReader
+  * DiscussionThreading
+  * ReCaptcha
+  * SemanticMediaWiki (optional)
+  * SocialProfile
+  * GroupPermissionsManager
+  * UserMerge
+  * MassEditRegex
 
 
 = License and warranty =
