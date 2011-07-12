@@ -6,7 +6,7 @@ First install Mediawiki.
 
 The TB Transcription Desl comprises three Mediawiki extensions: JBTEIToolbar and TEITags (supporting TEI markup) and JBZV (the Zoom Viewer support).
 
-Download each and and copy them to the Mediawiki extensions directory
+Download all files and directories from the [http://code.google.com/p/tb-transcription-desk/source/browse/#svn%2Ftrunk%2Ftd source repository] and and copy them to the Mediawiki extensions directory
 
 To the end of your MediaWiki LocalSettings.php file, add 
 
