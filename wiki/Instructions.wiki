@@ -10,9 +10,11 @@ Download each and and copy them to the Mediawiki extensions directory
 
 To the end of your MediaWiki LocalSettings.php file, add 
 
-{{{require_once("$IP/extensions/JBZV/JBZV.php");
+{{{
+require_once("$IP/extensions/JBZV/JBZV.php");
 require_once("$IP/extensions/TEITags.php");
-require_once("$IP/extensions/JBTEIToolbar/JBTEIToolbar.php");}}}
+require_once("$IP/extensions/JBTEIToolbar/JBTEIToolbar.php");
+}}}
 
 An example of the LocalSettings.php changes is in the accompanying file.
 
