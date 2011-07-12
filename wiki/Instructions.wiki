@@ -18,10 +18,9 @@ require_once("$IP/extensions/JBTEIToolbar/JBTEIToolbar.php");
 
 An example of the LocalSettings.php changes is in the accompanying file.
 
-To support the Zoom viewer, images need to be tiled and stored in a directory "Zimages" in the Mediawiki directory. The tiles can be created with the Zoomify tools or with the [http://www.zoomify.com/downloads/products/development/PERL-slice.zip Perl Slice script]. The directory names for each image's tiles need to match the name of the page where the image is to appear (e.g. page "JB/001/001/001" uses images from "/td/Zimages/001_001_001"). The exact algorithm can be changed in the JBZV script.
+To support the Zoom viewer, images need to be tiled and stored in a directory "Zimages" in the Mediawiki directory. The tiles can be created with the Zoomify tools or with the [http://www.zoomify.com/downloads/products/development/PERL-slice.zip Perl Slice script]. The directory names for each image's tiles need to match the name of the page where the image is to appear (e.g. page "JB/001/001/001" uses images from "/td/Zimages/001_001_001") from Zoomfy. (I created a wrapper script to run the Perl Slice script over a directory of images.) The exact pagename/filename algorithm can be changed in the JBZV script.
 
 A copy of the Transcribe Bentham theme is included. It is based on the Modern theme that ships with MedaWiki.
-
 
 = Other Mediawiki Extensions used in Transcribe Bentham =
 
@@ -45,4 +44,6 @@ A copy of the Transcribe Bentham theme is included. It is based on the Modern th
 
 The code included here is licensed under the same open GPL as MediaWiki.
 
-No warranty is made that it will function correctly or that it won't fill up your web server log with PHP errors and warnings.
+No warranty is made that it will function correctly, or that it won't fill up your web server log with PHP errors and warnings.
+
+I am happy to add new committers to the project if anyone wants to develop it further and better.
